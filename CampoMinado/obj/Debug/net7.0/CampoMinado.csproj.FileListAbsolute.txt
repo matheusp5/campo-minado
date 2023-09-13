@@ -1,0 +1,14 @@
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\bin\Debug\net7.0\CampoMinado.exe
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\bin\Debug\net7.0\CampoMinado.deps.json
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\bin\Debug\net7.0\CampoMinado.runtimeconfig.json
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\bin\Debug\net7.0\CampoMinado.dll
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\bin\Debug\net7.0\CampoMinado.pdb
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.AssemblyInfo.cs
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.dll
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\refint\CampoMinado.dll
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.pdb
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\CampoMinado.genruntimeconfig.cache
+C:\Users\windows\source\repos\CampoMinado\CampoMinado\obj\Debug\net7.0\ref\CampoMinado.dll
